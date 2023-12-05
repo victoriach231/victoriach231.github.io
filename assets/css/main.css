@@ -249,6 +249,8 @@ input, select, textarea {
 .topnav a {
   float: left;
   color: #f2f2f2;
+  background-color: #591d4a;
+
   text-align: center;
   text-decoration: none;
   font-size: 17px;
