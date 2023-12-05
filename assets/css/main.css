@@ -289,7 +289,6 @@ input, select, textarea {
   /* The container <div> - needed to position the dropdown content */
   .dropdown {
 	position: relative;
-	display: flex;
   }
   
   /* Dropdown Content (Hidden by Default) */
@@ -2103,7 +2102,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #fff;
+			background-color: #A88FA5;
 		}
 
 		.wrapper.style3 {
