@@ -233,7 +233,6 @@ input, select, textarea {
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #591d4a;
-    overflow: hidden;
 	position: fixed;
 	left: 0;
 	top: 0;
