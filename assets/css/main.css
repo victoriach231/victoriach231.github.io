@@ -122,6 +122,14 @@ input, select, textarea {
 			border: 0;
 		}
 
+		.a.dropbtn {
+			background-color: #04AA6D;
+			color: white;
+			padding: 16px;
+			font-size: 16px;
+			border: none;
+		}
+
 	b, strong {
 		font-weight: 600;
 		color: #3e3e3e;
@@ -1804,13 +1812,7 @@ input, select, textarea {
 			letter-spacing: -0.025em;
 		}
 
-		.button.dropbtn {
-			background-color: #04AA6D;
-			color: white;
-			padding: 16px;
-			font-size: 16px;
-			border: none;
-		}
+		
 
 		input[type="button"].alt,
 		input[type="submit"].alt,
