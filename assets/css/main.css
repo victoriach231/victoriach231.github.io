@@ -256,6 +256,7 @@ input, select, textarea {
   font-size: 17px;
   padding: 14px 16px;
   height: 4em;
+  right: 0;
 
 }
 
