@@ -240,8 +240,6 @@ input, select, textarea {
 	width: 100%;
 	z-index: 10000;
 	cursor: default;
-	height: 3.5em;
-	line-height: 3.5em;
 }
 
 /* Style the links inside the navigation bar */
