@@ -2357,7 +2357,7 @@ input, select, textarea {
 
 		/* Nav */
 
-			#nav {
+			/* #nav {
 				height: 44px;
 				line-height: 44px;
 			}
@@ -2371,7 +2371,7 @@ input, select, textarea {
 
 					#nav a:hover {
 						background-color: transparent;
-					}
+					} */
 
 		/* Articles */
 
