@@ -221,6 +221,40 @@ input, select, textarea {
 			font-size: 1.25em;
 		}
 
+/* Nav */
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #591d4a;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #92387b;
+  color: #f2f2f2;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #490b39;
+  color: #f2f2f2;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+}
+
 /* Container */
 
 	.container {
@@ -2033,39 +2067,7 @@ input, select, textarea {
 					background: #252525;
 				}
 
-/* Nav */
-/* Add a black background color to the top navigation */
-.topnav {
-    background-color: #591d4a;
-    overflow: hidden;
-}
 
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #92387b;
-  color: #f2f2f2;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #490b39;
-  color: #f2f2f2;
-}
-
-/* Right-aligned section inside the top navigation */
-.topnav-right {
-  float: right;
-}
 	
 
 /* Articles */
