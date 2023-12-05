@@ -311,6 +311,8 @@ input, select, textarea {
 	padding: 1.5em;
 	text-decoration: none;
 	display: inline-block;
+	height: auto;
+	width: auto;
   }
   
   /* Change color of dropdown links on hover */
