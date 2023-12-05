@@ -243,7 +243,7 @@ input, select, textarea {
 	width: 100%;
 	z-index: 10000;
 	cursor: default;
-	height: 2em;
+	height: 4em;
 }
 
 /* Style the links inside the navigation bar */
