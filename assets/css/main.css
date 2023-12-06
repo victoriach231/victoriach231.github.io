@@ -390,6 +390,7 @@ input, select, textarea {
 
 	.row {
 		display: flex;
+		flex-direction: row;
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
@@ -1802,7 +1803,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			background-color: #43bff0;
-			color: #040404 !important;
+			color: #fff !important;
 		}
 
 		input[type="button"]:active,
