@@ -195,6 +195,17 @@ input, select, textarea {
 		font-weight: 200;
 	}
 
+	h3.boxHeader {
+		font-size: 1.5em;
+		letter-spacing: -0.015em;
+		font-weight: 550;
+		color: #333;
+	}
+
+	p.boxP {
+		color: #181818;
+	}
+
 	em, i {
 		font-style: italic;
 	}
