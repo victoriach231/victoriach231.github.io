@@ -1815,7 +1815,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #43bff0;
+			background-color: #92387b;
 			color: #fff !important;
 		}
 
@@ -2058,7 +2058,7 @@ input, select, textarea {
 			top: 2em;
 			margin: -4em 0 4em -4em;
 			width: 378px;
-			height: 250px;
+			height: 280px;
 			background: #A88FA5;
 
 		}
